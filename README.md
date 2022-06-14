@@ -17,6 +17,8 @@ ce qui entoure ce monde et son écosystème
 ### statistiques github 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewe-maiga&show_icons=true)](https://github.com/lewe-maiga/)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lewe-maiga&theme=blood)](https://github.com/lewe-maiga/)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lewe_maiga)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewe-maiga&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ### Mes outils et language
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" align="center" /></a>
@@ -62,5 +64,4 @@ ce qui entoure ce monde et son écosystème
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=project-jee" />
 </a>
 
-### les technos utilisées 🏭
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewe-maiga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
