@@ -1,4 +1,11 @@
 ### Allewe Badra Aliyou Maiga's Github Stats👋
+Jeune, dynamique avec une profonde passion pour
+la programmation, je suis un développeur web
+junior qui ne cesse de repousser ses limites afin
+d’apprendre de nouvelles choses, vivre de
+nouvelles expériences et ne pas être dépassé par
+ce qui entoure ce monde et son écosystème
+émergent.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewe-maiga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
