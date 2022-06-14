@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewe-maiga)](https://github.com/anuraghazra/github-readme-stats)
+### Allewe Badra Aliyou Maiga's Github Stats👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewe-maiga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lewe-maiga/lewe-maiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
