@@ -22,6 +22,6 @@ ce qui entoure ce monde et son écosystème
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=project-jee" />
 </a>
-<br/>
+
 ### Les technos utilisées 🏭 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewe-maiga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
