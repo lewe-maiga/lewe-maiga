@@ -16,8 +16,8 @@ ce qui entoure ce monde et son écosystème
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewe-maiga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Mes outils et language
-<a href="https://dev.java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg" width="40" height="40" align="center" /></a>
-<a href="https://dev.java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" width="40" height="40" align="center" /></a>
+<a href="https://dev.java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" align="center" /></a>
+<a href="https://dev.java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://nodejs.org/fr/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://dev.java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" align="center" /></a>
