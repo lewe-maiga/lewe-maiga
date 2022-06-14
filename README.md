@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewe-maiga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=black-in" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=black_in" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=online-library-backend" />
