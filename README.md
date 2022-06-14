@@ -43,7 +43,7 @@ ce qui entoure ce monde et son écosystème
 <a href="https://github.com/lewe-maiga/online-library-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=online-library-backend" />
 </a>
-<a href="https://github.com/lewe-maiga/github-readme-stats">
+<a href="https://github.com/lewe-maiga/online-library-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=online-library-frontend" />
 </a>
 <a href="https://github.com/lewe-maiga/agrinnov">
