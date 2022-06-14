@@ -17,7 +17,7 @@ ce qui entoure ce monde et son écosystème
 
 ### Mes outils et language
 
-<a href="https://nodejs.org/fr/" target="_blank" style="margin-right: 10px;"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" align="center" /></a>
+<a href="https://nodejs.org/fr/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" align="center"  /></a>
 <a href="https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://dev.java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" align="center" /></a>
 <br />
