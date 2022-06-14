@@ -1,7 +1,6 @@
 [![MasterHead](https://github.com/lewe-maiga/lewe-maiga/blob/main/header.png)](https://github.com/lewe-maiga/)
 ![](https://komarev.com/ghpvc/?username=lewe-maiga)
 
-### Presentation 🤴
 Jeune, dynamique avec une profonde passion pour
 la programmation, je suis un développeur web
 junior qui ne cesse de repousser ses limites afin
