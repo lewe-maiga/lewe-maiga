@@ -8,7 +8,7 @@ ce qui entoure ce monde et son écosystème
 émergent.<br/>
 ### statistiques github 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewe-maiga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=lewe-maiga-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lewe-maiga&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  ### Mes derniers projets 📅
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=black_in" />
