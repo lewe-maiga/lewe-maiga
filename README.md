@@ -1,4 +1,6 @@
 [![MasterHead](https://github.com/lewe-maiga/lewe-maiga/blob/main/header.png)](https://github.com/lewe-maiga/)
+![](https://komarev.com/ghpvc/?username=lewe-maiga)
+
 ### Presentation 🤴
 Jeune, dynamique avec une profonde passion pour
 la programmation, je suis un développeur web
@@ -16,7 +18,6 @@ ce qui entoure ce monde et son écosystème
 ### statistiques github 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewe-maiga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lewe-maiga&theme=blood)](https://git.io/streak-stats)
-![](https://komarev.com/ghpvc/?username=your-github-username)
 ### Mes outils et language
 <a href="https://dev.java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" align="center" /></a>
 <a href="https://dev.java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" align="center" /></a>
