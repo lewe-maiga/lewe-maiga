@@ -15,9 +15,11 @@ ce qui entoure ce monde et son écosystème
 ### statistiques github 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewe-maiga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ### Mes outils et language
+
 <p align="left">
   <a href="https://nodejs.org/fr/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" /></a>
 </p>
+<br />
 
  ### Mes derniers projets 📅
 <a href="https://github.com/anuraghazra/github-readme-stats">
