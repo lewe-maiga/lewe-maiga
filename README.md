@@ -27,7 +27,7 @@ ce qui entoure ce monde et son écosystème
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=black_in" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat" style="margin-left: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=online-library-backend" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
