@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/lewe-maiga/lewe-maiga/blob/main/header.png)](https://github.com/lewe-maiga/)
-![](https://komarev.com/ghpvc/?username=lewe-maiga)
+![](https://komarev.com/ghpvc/?username=lewe-maiga&color=brightgreen)
 
 Jeune, dynamique avec une profonde passion pour
 la programmation, je suis un développeur web
