@@ -37,28 +37,28 @@ ce qui entoure ce monde et son écosystème
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" align="center" /></a>
 <br/>
  ### Mes derniers projets 📅
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/lewe-maiga/black_in">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=black_in" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/lewe-maiga/online-library-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=online-library-backend" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/lewe-maiga/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=online-library-frontend" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=project-jee" />
+<a href="https://github.com/lewe-maiga/agrinnov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=agrinnov" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/lewe-maiga/koa-postgresql">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=koa-postgresql" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/lewe-maiga/express-with-angular">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=express-with-angular" />
+</a>
+<a href="https://github.com/lewe-maiga/project-ai-csp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=project-ai-csp" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=project-ai-csp" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/lewe-maiga/project-jee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewe-maiga&repo=project-jee" />
 </a>
 
