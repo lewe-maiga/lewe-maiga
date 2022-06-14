@@ -11,14 +11,17 @@ ce qui entoure ce monde et son écosystème
 <a href="https://www.instagram.com/lewe_maiga/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
  <a href="https://twitter.com/lewe_maiga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <br/>
+
 ### statistiques github 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewe-maiga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Mes outils et language
 
-<p align="left">
-  <a href="https://nodejs.org/fr/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" /></a>
-</p>
+  <a href="https://nodejs.org/fr/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50" /></a>
+<a href="https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" /></a>
+<a href="https://dev.java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" /></a>
 <br />
+
 
  ### Mes derniers projets 📅
 <a href="https://github.com/anuraghazra/github-readme-stats">
